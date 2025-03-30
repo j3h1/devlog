@@ -1,0 +1,1 @@
+Welcome to my devlog! I hope you have a nice time reading these. I do these everytime I work on my projects, starting from March 30, 2025.
