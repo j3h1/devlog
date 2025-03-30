@@ -7,7 +7,9 @@ You first need [obsidian.md](https://obsidian.md/). Then to start reading, clone
 
 ### Great! How do I support you?
 You can buy me a coffee at kofi
+
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/C0C71C5Z0S)
 
 Or if you're interested in bitcoin
-![[Pasted image 20250330233602.png]]
+
+![https://raw.githubusercontent.com/j3h1/devlog/refs/heads/main/Files/QR_BTC.png]
