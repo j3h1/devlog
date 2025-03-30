@@ -13,4 +13,3 @@ You can buy me a coffee at kofi
 Or if you're interested in bitcoin
 
 ![zpub6oJvMx97rBfSY2F5yeKsagA1zk4mWc7NewwyW8fd6R55j5i3jmc6aP7mXXQjHfT74vro6gciaNgpsBFeNpjsvbCvQ1LengheQ41kq9fAXbE](https://raw.githubusercontent.com/j3h1/devlog/refs/heads/main/Files/QR_BTC.png)
-![[QR_BTC.png]]
